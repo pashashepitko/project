@@ -5,3 +5,11 @@
 	background-color: lightblue;
 	border: 2px solid black;
 }
+
+.block_2	{
+	width: 500px;
+	height: 500px;
+	display: inline-block;
+	background-color: red;
+	border: 5px solid blue;
+}
